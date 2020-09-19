@@ -1,0 +1,14 @@
+FLASK_APP = main.py
+FLASK_DEBUG = 1
+
+DB_HOST = localhost
+DB_DATABASE = akademik
+DB_USERNAME = root
+DB_PASSWORD =
+
+JWT_SECRET=INISECRET
+
+MAIL_SERVER=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USERNAME=agungwe2101@gmail.com
+MAIL_PASSWORD=T3rs3r4h
